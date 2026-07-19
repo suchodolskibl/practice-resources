@@ -2,7 +2,7 @@
 
 This AppleScript (.applescript file) creates a blank Microsoft Word document (.docx file) and runs the 'Save As...' dialogue before that new file is first opened in Micoroft Word. Microsoft Word in effect asks you to have the new document named and saved in a location before it is edited in any way.
 
-New Word documents made within Microsoft Word normally become an unsaved 'Document1'. As unsaved copies proliferate into 'Document2', 'Document3' and so on, it becomes more and more difficult for practitioners to keep files that only have to be saved after much time in order.
+New Word documents made within Microsoft Word normally become an unsaved 'Document1'. As unsaved copies proliferate into 'Document2', 'Document3' and so on, it becomes more and more difficult for practitioners to keep in order files that only ever really have to be saved after quite substantial time.
 
 # Requirements
 
